@@ -21,7 +21,9 @@ Once installed you can run the program with the following command
 
 ```
 python demo.py
-```
+``
+----------------------
+#thanks
 
 Add any additional ways to run the program below
 
